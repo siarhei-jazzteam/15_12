@@ -13,7 +13,7 @@ Hello: Hi
 **[Get it for Safari.\*\*](https://s3.amazonaws.com/markdown-here/markdown-here.safariextz)**<br>
 **[Get it for Thunderbird and Postbox.\*\*](https://addons.mozilla.org/en-US/thunderbird/addon/markdown-here/)**<br>
 **[Get it for Opera.\*\*](https://addons.opera.com/en/extensions/details/markdown-here/)**<br>
-**[Discuss it and ask questions in the Google Group.\*\*](https://groups.google.com/forum/?fromgroups#!forum/markdown-here/)\*\*<br>
+**[Discuss it and ask questions in the Google Group.\*\*](https://groups.google.com/forum/?fromgroups#!forum/markdown-here/)**<br>
 
 # ![Markdown Here logo](https://raw.github.com/adam-p/markdown-here/master/src/common/images/icon48.png) Markdown Here
 
