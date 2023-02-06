@@ -1,0 +1,14 @@
+| ~~Brand~~  | Country |
+| ------ | ------- |
+| BMW    | Germany |
+| Citroen| **France**  |
+| Citroen| France  |
+| BMW    | Germany |
+ 
+~~~
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+~~~
